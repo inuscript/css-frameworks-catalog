@@ -7,8 +7,8 @@
 #[Bootswatch](https://bootswatch.com/)
 ![Bootswatch_screenshot](http://api.screenshotmachine.com?key=f0a1c3&url=https%3A%2F%2Fbootswatch.com%2F&size=M&cacheLimit=3&format=PNG)
 
-#[Honoka](https://bootswatch.com/)
-![Honoka_screenshot](http://api.screenshotmachine.com?key=f0a1c3&url=https%3A%2F%2Fbootswatch.com%2F&size=M&cacheLimit=3&format=PNG)
+#[Honoka](http://honokak.osaka/)
+![Honoka_screenshot](http://api.screenshotmachine.com?key=f0a1c3&url=http%3A%2F%2Fhonokak.osaka%2F&size=M&cacheLimit=3&format=PNG)
 
 #[Foundation](http://foundation.zurb.com/)
 ![Foundation_screenshot](http://api.screenshotmachine.com?key=f0a1c3&url=http%3A%2F%2Ffoundation.zurb.com%2F&size=M&cacheLimit=3&format=PNG)

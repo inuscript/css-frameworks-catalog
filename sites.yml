@@ -6,7 +6,7 @@ sites:
   - name: Bootswatch
     url: https://bootswatch.com/
   - name: Honoka
-    url: https://bootswatch.com/
+    url: http://honokak.osaka/
   - name: Foundation
     url: http://foundation.zurb.com/
   - name: Gumby
