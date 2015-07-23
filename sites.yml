@@ -1,0 +1,32 @@
+sites:
+  - name: Bootstrap
+    url: http://getbootstrap.com/
+  - name: Bootflat
+    url: http://bootflat.github.io/
+  - name: Bootswatch
+    url: https://bootswatch.com/
+  - name: Honoka
+    url: https://bootswatch.com/
+  - name: Foundation
+    url: http://foundation.zurb.com/
+  - name: Gumby
+    url: http://www.gumbyframework.com/
+  - name: Flat-UI
+    url: http://designmodo.github.io/Flat-UI/
+  - name: INK
+    url: http://ink.sapo.pt/
+  - name: Pure.css
+    url: http://purecss.io/
+  - name: AUI (Atlassian User Interface)
+    url: https://docs.atlassian.com/aui/latest/
+  - name: Base
+    url: http://getbase.org/
+  - name: Basecss
+    url: http://www.basscss.com/
+  - name: Cardinal
+    url: http://cardinalcss.com/
+  - name: CONCISE
+    url: http://concisecss.com/
+  - name: Furtive
+    url: http://furtive.co/
+

@@ -1,0 +1,23 @@
+{
+  "name": "css-frameworks-catalog",
+  "version": "1.0.0",
+  "description": "- name:Foundation](http://foundation.zurb.com/)",
+  "main": "generator.js",
+  "scripts": {
+    "start": "node generator/index.js > README.md",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inuscript/css-frameworks-catalog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inuscript/css-frameworks-catalog/issues"
+  },
+  "homepage": "https://github.com/inuscript/css-frameworks-catalog#readme",
+  "dependencies": {
+    "js-yaml": "^3.3.1"
+  }
+}
